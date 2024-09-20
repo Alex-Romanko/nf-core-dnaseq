@@ -1,8 +1,14 @@
 .nextflow*
+nextflow_work_tmp/
+nextflow_work/
 work/
 data/
+test_data/
 results/
 .DS_Store
 testing/
 testing*
 *.pyc
+report*
+timeline*
+trace*
